@@ -1,0 +1,19 @@
+{
+  "name": "generator-dsbaars-angular2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Djuri Baars <dsbaars@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

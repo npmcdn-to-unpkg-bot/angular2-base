@@ -1,0 +1,33 @@
+src/**/*.js
+src/**/*.js.map
+
+node_modules
+.grunt
+.lock-wscript
+*.log
+
+web/bower_components
+bower_components
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
+Thumbs.db
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+typings/main
+typings/main.d.ts
