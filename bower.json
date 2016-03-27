@@ -1,11 +1,11 @@
 {
-  "name": "generator-dsbaars-angular2",
+  "name": "angular2-base",
   "description": "",
   "main": "index.js",
   "authors": [
     "Djuri Baars <dsbaars@gmail.com>"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "moduleType": [],
   "homepage": "",
   "private": true,
